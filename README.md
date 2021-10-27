@@ -2,7 +2,7 @@
 
 Website link : https://infallible-agnesi-73b011.netlify.app
 
-create a complete responsive multi-pages online grocery store website design template using html css / sass and vanilla javascript from scratch.
+a complete responsive multi-pages online grocery store website design template using html css / sass and vanilla javascript from scratch.
 
 the main feature of this website are:
 
