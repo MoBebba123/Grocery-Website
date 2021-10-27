@@ -6,6 +6,7 @@ create a complete responsive multi-pages online grocery store website design tem
 
 the main feature of this website are:
 ✅ responsive header with search form / shopping cart / login form and navbar toggle effect using vanilla javascript.
+
 ✅ responsive header section with slider and next and previous buttons using vanilla javascript.
 ✅ responsive banner section using css grid.
 ✅ responsive category section using css grid.
